@@ -49,6 +49,16 @@
     <Compile Include="No13Eudora_1214078.cs" />
     <Compile Include="No14Zilong_1214078.cs" />
     <Compile Include="No15Fanny_1214078.cs" />
+    <Compile Include="No16Layla_1214078.cs" />
+    <Compile Include="No17Hayabusa_1214078.cs" />
+    <Compile Include="No18Gord_1214078.cs" />
+    <Compile Include="No19Kagura_1214078.cs" />
+    <Compile Include="No20Chou_1214078.cs" />
+    <Compile Include="No21Sun_1214078.cs" />
+    <Compile Include="No22Alpha_1214078.cs" />
+    <Compile Include="No23YSS_1214078.cs" />
+    <Compile Include="No24Moskov_1214078.cs" />
+    <Compile Include="No25Cyclops_1214078.cs" />
     <Compile Include="No2Balmon_1214078.cs" />
     <Compile Include="No1Miya_1214078.cs" />
     <Compile Include="No4Nana_1214078.cs" />

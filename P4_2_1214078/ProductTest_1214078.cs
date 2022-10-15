@@ -27,52 +27,17 @@ namespace P4_2_1214078
             No13Eudora_1214078 product13 = new No13Eudora_1214078("Eudora", "Mage");
             No14Zilong_1214078 product14 = new No14Zilong_1214078("Zilong", "Fighter");
             No15Fanny_1214078 product15 = new No15Fanny_1214078("Fanny", "Assasin");
-            /*No16Layla_1214078 product16 = new No16Layla_1214078("Layla", "Marksman");
-            No17Hayabusa_1214078 product17 = new No17Hayabusa_1214078("Bruno", "Assasin");
-            No18Gord_1214078 product18 = new No10Bruno_1214078("Bruno", " Marksman");
-            No19Kagura_1214078 product19 = new No10Bruno_1214078("Bruno", " Marksman");
-            No20Chou_1214078 product20 = new No10Bruno_1214078("Bruno", " Marksman");
-            No21Sun_1214078 product21 = new No10Bruno_1214078("Bruno", " Marksman");
-            No22Alpha_1214078 product22 = new No10Bruno_1214078("Bruno", " Marksman");
-            No23YSS_1214078 product23 = new No10Bruno_1214078("Bruno", " Marksman");
-            No24Moskov_1214078 product24 = new No10Bruno_1214078("Bruno", " Marksman");
-            No25Cyclops_1214078 product25 = new No10Bruno_1214078("Bruno", " Marksman");
-            No26Estes_1214078 product26 = new No10Bruno_1214078("Bruno", " Marksman");
-            No27Lapu_1214078 product27 = new No10Bruno_1214078("Bruno", " Marksman");
-            No28Roger_1214078 product28 = new No10Bruno_1214078("Bruno", " Marksman");
-            No29Karrie_1214078 product29 = new No10Bruno_1214078("Bruno", " Marksman");
-            No30Gatot_1214078 product30 = new No10Bruno_1214078("Bruno", " Marksman");
-            No31Harley_1214078 product31 = new No10Bruno_1214078("Bruno", " Marksman");
-            No32Odette_1214078 product32 = new No10Bruno_1214078("Bruno", " Marksman");
-            No33Lancelot_1214078 product33 = new No10Bruno_1214078("Bruno", " Marksman");
-            No34Pharsa_1214078 product34 = new No10Bruno_1214078("Bruno", " Marksman");
-            No35Jawhead_1214078 product35 = new No10Bruno_1214078("Bruno", " Marksman");
-            No36Angela_1214078 product36 = new No10Bruno_1214078("Bruno", " Marksman");
-            No37Gusion_1214078 product37 = new No10Bruno_1214078("Bruno", " Marksman");
-            No38Uranus_1214078 product38 = new No10Bruno_1214078("Bruno", " Marksman");
-            No39Change_1214078 product39 = new No10Bruno_1214078("Bruno", " Marksman");
-            No40Selena_1214078 product40 = new No10Bruno_1214078("Bruno", " Marksman");
-            No41Aldous_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No41Claude_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No43Vale_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No44Leomord_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No45Lunox_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No46Hanzo_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No47Kimmy_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No48Thamuz_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No49Faramis_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No50Granger_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No51Guiniver_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No52Ling_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No53Lylia_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No54Wanwan_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No55Cecilion_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No56Atlas_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No57Yuzhong_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No58Luoyi_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No59Brody_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No60Paquito_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");
-            No61Silvana_1214078 product10 = new No10Bruno_1214078("Bruno", " Marksman");*/
+            No16Layla_1214078 product16 = new No16Layla_1214078("Layla", "Marksman");
+            No17Hayabusa_1214078 product17 = new No17Hayabusa_1214078("Hayabusa", "Assasin");
+            No18Gord_1214078 product18 = new No18Gord_1214078("Gord", "Mage");
+            No19Kagura_1214078 product19 = new No19Kagura_1214078("Kagura", "Mage");
+            No20Chou_1214078 product20 = new No20Chou_1214078("Chou", "Fighter");
+            No21Sun_1214078 product21 = new No21Sun_1214078("Sun", "Fighter");
+            No22Alpha_1214078 product22 = new No22Alpha_1214078("Alpha", "Fighter");
+            No23YSS_1214078 product23 = new No23YSS_1214078("YSS", "Assasin");
+            No24Moskov_1214078 product24 = new No24Moskov_1214078("Moskov", "Marksman");
+            No25Cyclops_1214078 product25 = new No25Cyclops_1214078("Cyclops", "Mage");
+
 
 
 
@@ -127,51 +92,79 @@ namespace P4_2_1214078
             Console.WriteLine("");
 
             Console.WriteLine("11. Ini dari Class Clint");
-            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product10.MyType, product10.MyTitle, product10.Role);
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product11.MyType, product11.MyTitle, product11.Role);
 
             Console.WriteLine("");
 
             Console.WriteLine("12. Ini dari Class Rafaela");
-            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product10.MyType, product10.MyTitle, product10.Role);
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product12.MyType, product12.MyTitle, product12.Role);
 
             Console.WriteLine("");
 
             Console.WriteLine("13. Ini dari Class Eudora");
-            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product10.MyType, product10.MyTitle, product10.Role);
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product13.MyType, product13.MyTitle, product13.Role);
 
             Console.WriteLine("");
 
             Console.WriteLine("14. Ini dari Class Zilong");
-            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product10.MyType, product10.MyTitle, product10.Role);
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product14.MyType, product14.MyTitle, product14.Role);
 
             Console.WriteLine("");
 
             Console.WriteLine("15. Ini dari Class Fanny");
-            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product10.MyType, product10.MyTitle, product10.Role);
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product15.MyType, product15.MyTitle, product15.Role);
 
             Console.WriteLine("");
 
-            /*Console.WriteLine("11. Ini dari Class Clint");
-            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product10.MyType, product10.MyTitle, product10.Role);
+            Console.WriteLine("16. Ini dari Class Layla");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product16.MyType, product16.MyTitle, product16.Role);
 
             Console.WriteLine("");
 
-            Console.WriteLine("11. Ini dari Class Clint");
-            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product10.MyType, product10.MyTitle, product10.Role);
+            Console.WriteLine("17. Ini dari Class Hayabusa");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product17.MyType, product17.MyTitle, product17.Role);
 
             Console.WriteLine("");
 
-            Console.WriteLine("11. Ini dari Class Clint");
-            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product10.MyType, product10.MyTitle, product10.Role);
+            Console.WriteLine("18. Ini dari Class Gord");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product18.MyType, product18.MyTitle, product18.Role);
 
             Console.WriteLine("");
 
-            Console.WriteLine("11. Ini dari Class Clint");
-            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product10.MyType, product10.MyTitle, product10.Role);
+            Console.WriteLine("19. Ini dari Class Kagura");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product19.MyType, product19.MyTitle, product19.Role);
 
-            Console.WriteLine("");*/
+            Console.WriteLine("");
 
-            
+            Console.WriteLine("20. Ini dari Class Chou");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product20.MyType, product20.MyTitle, product20.Role);
+
+            Console.WriteLine("");
+
+            Console.WriteLine("21. Ini dari Class Sun");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product21.MyType, product21.MyTitle, product21.Role);
+
+            Console.WriteLine("");
+
+            Console.WriteLine("22. Ini dari Class Alpha");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product22.MyType, product22.MyTitle, product22.Role);
+
+            Console.WriteLine("");
+
+            Console.WriteLine("23. Ini dari Class YSS");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product23.MyType, product23.MyTitle, product23.Role);
+
+            Console.WriteLine("");
+
+            Console.WriteLine("24. Ini dari Class Moskov");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product24.MyType, product24.MyTitle, product24.Role);
+
+            Console.WriteLine("");
+
+            Console.WriteLine("25. Ini dari Class Cyclops");
+            Console.WriteLine("Product 10 is a {0} called \"{1}\" and {2} as his role", product25.MyType, product25.MyTitle, product25.Role);
+
+            Console.WriteLine("");
 
             Console.ReadKey();
 
